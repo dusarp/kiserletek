@@ -1,2 +1,2 @@
-valami
-valami2
+valami2 /ez nem kell
+ez lesz a valami
